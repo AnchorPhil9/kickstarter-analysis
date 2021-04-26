@@ -20,7 +20,7 @@ First, regarding the launch time data format issue, it turns out the launch data
 
 Setting up our pivot table, we will be filtering raw data by Parent Category “theater”, label our row labels by converted date launches, label our columns by outcome, and take the sum value of all outcomes for each date (“Module 1 Challenge”, 2021). Ultimately, we get the below result:
 
-![Theater_Outcomes_vs_Launch](/kickstarter-analysis/resources/)
+![Theater_Outcomes_vs_Launch.png](/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 
 
