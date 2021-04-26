@@ -22,12 +22,29 @@ Setting up our pivot table, we will be filtering raw data by Parent Category “
 
 ![Theater Outcomes vs Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
-
+The most eyegrabbing part of the results is how successful the summer / late spring months are for theaters. Certainly, the data seems to correlate with the influx of students finishing their spring semesters and gearing up for summer break activities. With success, though, comes failure, which is also pronunced in the summer/late spring monthsElsewhere, there are notably fewer canceled projects, though January does have the most canceled projects, maybe because January tends to be when students and working adults come back from winter break to return to school or work respectively, during which they are less interested in going out to see theater productions.
 
 ### Analysis of Outcomes Based on Goals
 
-### Challenges and Difficulties Encountered
+### Other Challenges and Difficulties Encountered
 
 ## Results
 
 ## Works Cited
+1.0.4 Kickstarting with Excel. (2021). Bootcamp Spot. Retrieved April 24, 2021, from 
+    https://courses.bootcampspot.com/courses/577/pages/1-dot-0-4-kickstarting-with-excel
+
+1.1.3 Download the Kickstarter Data. (2021). Bootcamp Spot. Retrieved April 25, 2021, from 
+    https://courses.bootcampspot.com/courses/577/pages/1-dot-1-3-download-the-kickstarter-data
+
+1.2.2 Initial Look at the Data. (2021). Bootcamp Spot. Retrieved April 25, 2021, from 
+    https://courses.bootcampspot.com/courses/577/pages/1-dot-2-2-initial-look-at-the-data
+
+1.3.1 Pivoting Towards Success. (2021). Bootcamp Spot. Retrieved April 25, 2021, from 
+    https://courses.bootcampspot.com/courses/577/pages/1-dot-3-1-pivoting-toward-success
+
+1.3.3 Timing Success. (2021). Bootcamp Spot. Retrieved April 25, 2021, from 
+    https://courses.bootcampspot.com/courses/577/pages/1-dot-3-3-timing-success
+
+Module 1 Challenge. (2021). Bootcamp Spot. Retrieved April 25, 2021, from 
+    https://courses.bootcampspot.com/courses/577/assignments/11823
